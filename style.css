@@ -1,0 +1,60 @@
+.Background {
+    background-color: #075349;
+}
+
+
+
+.Texto-principal {
+    margin-top: 128px;
+    color:#ffffff;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-align: center;    
+
+}
+.Marca {
+    color: rgb(15, 211, 47);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+.Texto-de-abajo {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: #ffffff;
+}
+
+.Contenedor-textodeabajo {
+    background-color: rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    border-radius: 12px;
+    max-width: 600px;
+    margin: 20px auto;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+}
+
+.Carac1 {
+    font-size: 80px;
+    color: #13c53a;
+    margin-top: 150px;
+    font-weight: 1000;
+    margin-left: 200px;
+}
+.TextoCarac1 {
+    color:#ffffff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    margin-left: 110px;
+    margin-top: -45px;
+}
+
+.Texto-principal-abajo {
+    text-align: center;
+    color: #ffffff;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -20px;
+}
